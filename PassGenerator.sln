@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassGenerator", "PassGenerator\PassGenerator.csproj", "{A2C5B500-D2C6-470A-BB30-B3860F020C79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassGeneratorTests", "PassGeneratorTests\PassGeneratorTests.csproj", "{48C1A25D-82E4-43B3-A575-32C255F84810}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2C5B500-D2C6-470A-BB30-B3860F020C79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2C5B500-D2C6-470A-BB30-B3860F020C79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2C5B500-D2C6-470A-BB30-B3860F020C79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2C5B500-D2C6-470A-BB30-B3860F020C79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48C1A25D-82E4-43B3-A575-32C255F84810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48C1A25D-82E4-43B3-A575-32C255F84810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48C1A25D-82E4-43B3-A575-32C255F84810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48C1A25D-82E4-43B3-A575-32C255F84810}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C63F3499-6781-4610-8501-BB255330896D}
+	EndGlobalSection
+EndGlobal
